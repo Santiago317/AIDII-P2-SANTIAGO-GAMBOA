@@ -1,4 +1,4 @@
-SANTIAGO GAMBOA to GitHub Pages
+SANTIAGO GAMBOA este es mi examén de AIDII SEGUNDO PARCIAL
 
 You can use the [editor on GitHub](https://github.com/Santiago317/AIDIIP2SANTIAGOGAMBOA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
